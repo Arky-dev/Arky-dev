@@ -17,7 +17,6 @@ Ive worked with :
  - [larbreetlasource.art](https://www.larbreetlasource.art/)
  - [heleneaverous.com](https://www.heleneaverous.com/)
  - [hypermorpion.herokuapp.com](https://hypermorpion.herokuapp.com/) (Obsolete)
- - [paulaverous.com](https://www.paulaverous.com/) (Obsolete wordpress website for now)
 
 ### Chrome extensions :
  - Mathraining darkmode
