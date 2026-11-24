@@ -32,5 +32,5 @@ Engineering student at **École Polytechnique** (Master of Engineering, majoring
 
 ### 📫 Get in Touch
 
-* **Email:** [paul.averous@polytechnique.edu](mailto:paul.averous@polytechnique.edu)
+* **Email:** in the format name.surname(at)polytechnique.edu
 * **LinkedIn:** [linkedin.com/in/your-handle](https://www.linkedin.com/in/paul-averous-7591b1321/)
