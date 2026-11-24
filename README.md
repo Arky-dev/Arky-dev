@@ -1,33 +1,36 @@
-# 👋 Hi, I’m Arky
+# Hi, I'm Paul Avérous 👋
 
-## Who am I ?
-I'm a french 20y/o independant developper.\
-I started coding 6 years ago, mainly in python. Today I work with python, do quite a lot of web development and experiment with a lot more languages.\
-Ive worked with :
- - ```python```
- - ```html & css```
- - ```js``` (React)
- - ```php```
- - ```C```
- - ```OCaml```
+Engineering student at **École Polytechnique** (Master of Engineering, majoring in Computer Science, Mathematics, and Physics). I focus on **computer graphics, imaging calibration, generative vision models, and hardware/software integration**.
 
-## My projects :
+🔭 **Currently looking for:** A **16+ week Research Internship in Computer Science starting March 2027** (open to R&D roles in computer vision, graphics, and computational photography).
 
-### Websites :
- - [larbreetlasource.art](https://www.larbreetlasource.art/)
+---
+
+### 🔬 Experience & Research Highlights
+
+* **Calibration Engineer @ Phase One** *(Jun 2026 – Sep 2026)* — Engineered a **3D synthetic data pipeline in C++ and OpenGL** to render high-resolution optical test targets and isolating sensor/lens calibration errors.
+* **External Data Scientist @ CMA-CGM** *(Aug 2025 – May 2026)* — Developed ML tools for maritime route prediction and extraction using state-of-the-art genetic and graph algorithms.
+* **AI Research Intern @ French Ministry of Defense** *(Oct 2024 – Apr 2025)* — Led an autonomous research project implementing **U-Net, Diffusion models, and Gabor filters** for image processing and generation.
+
+---
+
+### 🧰 Tech Stack
+
+* **Languages:** `Python` · `C++` · `OCaml` · `Java` · `JavaScript` · `Agda` · `PHP`
+* **AI & Graphics:** `PyTorch` · `Diffusion Models` · `U-Net` · `OpenGL`
+* **Tools & Hardware:** `Git` · `Docker` · `Linux` · `Bash` · `Node.js` · `Dataiku` · `Raspberry Pi`
+
+---
+
+### 🖥️ Website Portfolio
+ - [ofm-officiel.org](https://www.ofm-officiel.org/)
  - [heleneaverous.com](https://www.heleneaverous.com/)
- - [hypermorpion.herokuapp.com](https://hypermorpion.herokuapp.com/) (Obsolete)
+ - [ofm2025.maths-olympiques.fr](https://ofm2025.maths-olympiques.fr/)
+ - [larbreetlasource.art](https://www.larbreetlasource.art/)
 
-### Chrome extensions :
- - Mathraining darkmode
- - Youtube downloader extension
- 
-### Apps :
- - Hypermorpion
- - Time's Up
- - Belotte Point Counter
+---
 
-<!---
-Arky-dev/Arky-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 Get in Touch
+
+* **Email:** [paul.averous@polytechnique.edu](mailto:paul.averous@polytechnique.edu)
+* **LinkedIn:** [linkedin.com/in/your-handle](https://www.linkedin.com/in/paul-averous-7591b1321/)
